@@ -54,7 +54,7 @@ project, and press F5.
 4. Go to Clustering, pick a linkage type (default is Improved Single Linkage), set your cluster count, and click Run Clustering.
 5. Check the Similarity and Evaluation & Results tabs to see the generated matrix and accuracy scores.
 
-## Notes on faithfulness to the thesis
+## Technical Notes
 
 -**PDF Reading:** Uses standard internal PDF extraction for basic files. For complex or scanned PDFs, you can integrate the PdfPig NuGet package in PdfTextExtractor.cs.
 -**Database:** Uses lightweight JSON files for data storage instead of SQL Server to keep setup quick and dependency-free.
