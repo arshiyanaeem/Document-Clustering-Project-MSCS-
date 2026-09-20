@@ -1,0 +1,9 @@
+Outlier Detection in Streaming Data Mining Using Density Based Clustering
+
+Detecting outliers in continuously arriving data streams is a challenging data mining problem
+because the underlying distribution can change over time. This paper proposes a density based
+outlier detection method for streaming data mining that maintains a sliding window of recent
+observations and periodically recomputes local density estimates. Unlike frequent pattern mining
+approaches that focus on transaction databases, this work targets numeric sensor streams. Results
+on synthetic and real sensor datasets demonstrate that the proposed method detects anomalies with
+low latency while adapting to gradual concept drift in the data mining pipeline.

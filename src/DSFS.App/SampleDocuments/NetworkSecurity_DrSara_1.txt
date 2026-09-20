@@ -1,0 +1,9 @@
+Detecting Phishing Websites Using Machine Learning Based Network Security Features
+
+Phishing websites remain one of the most common attack vectors used to compromise user credentials
+over the network. This paper investigates a machine learning based classifier trained on features
+extracted from URL structure, page content and network security certificate metadata to distinguish
+phishing pages from legitimate websites. Unlike routing focused sensor network security research,
+this work targets web scale phishing detection. Experimental evaluation on a labelled phishing
+dataset shows that the proposed classifier achieves strong detection accuracy, supporting its use
+as a browser level network security safeguard.

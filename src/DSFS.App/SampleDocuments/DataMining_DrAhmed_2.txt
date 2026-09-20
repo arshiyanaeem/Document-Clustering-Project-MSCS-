@@ -1,0 +1,9 @@
+A Pruned Apriori Approach for Association Rule Mining in Retail Data Mining
+
+Association rule mining is a widely used data mining technique for discovering relationships
+among items in transaction databases. This paper extends the classical Apriori algorithm with
+a pruning heuristic that discards low-support candidate itemsets earlier in the mining process.
+The transaction database used for evaluation is drawn from retail point-of-sale records. Results
+indicate that the pruned Apriori variant achieves comparable frequent itemsets to the baseline
+algorithm while scanning the transaction database fewer times, which is beneficial for large
+scale data mining applications.

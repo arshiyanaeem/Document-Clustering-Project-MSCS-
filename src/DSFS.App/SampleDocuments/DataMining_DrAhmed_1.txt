@@ -1,0 +1,9 @@
+Efficient Frequent Pattern Mining for Large Scale Transaction Databases
+
+This research investigates frequent pattern mining techniques for large scale transaction
+databases. Association rule mining and the Apriori algorithm are reviewed, and an improved
+candidate generation strategy is proposed to reduce the number of database scans required.
+Experiments on retail transaction datasets show that the proposed pruning strategy reduces
+runtime while preserving the completeness of the discovered frequent itemsets. Data mining
+of large repositories continues to be an important area for extracting actionable knowledge
+from transactional records, and pattern mining remains a core building block of that process.

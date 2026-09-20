@@ -1,0 +1,10 @@
+An Intrusion Detection Framework for Wireless Sensor Networks
+
+Wireless sensor networks are vulnerable to a range of security attacks including sinkhole,
+wormhole and denial of service attacks due to their limited energy and computational resources.
+This paper proposes a lightweight intrusion detection framework for wireless sensor networks
+that monitors routing behaviour and flags nodes exhibiting anomalous packet forwarding patterns.
+The framework is evaluated through simulation of a multi hop sensor network under several attack
+scenarios. Results show that the proposed network security mechanism achieves high detection
+accuracy while incurring low communication overhead, making it suitable for resource constrained
+sensor network deployments.

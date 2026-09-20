@@ -1,0 +1,9 @@
+Energy Aware Secure Routing Protocol for Wireless Sensor Network Security
+
+Secure routing is a critical requirement for wireless sensor network deployments operating in
+hostile environments. This paper presents an energy aware secure routing protocol that combines
+lightweight authentication with trust based path selection to defend against wormhole and sinkhole
+attacks. The protocol is designed for resource constrained sensor nodes and minimizes cryptographic
+overhead. Simulation results across varying network densities show that the proposed network
+security protocol improves packet delivery ratio under active routing attacks compared to
+baseline routing protocols, while extending overall sensor network lifetime.
